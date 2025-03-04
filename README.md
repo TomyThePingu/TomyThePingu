@@ -1,6 +1,9 @@
 ## Hi there 👋
 
-It student by day ☼ and a HomeLabber by night ☾
+IT student by day ☼ and a HomeLabber by night ☾
+
+- 🔭 I’m currently working on my setup
+- 💬 Ask me about Proxmox or Pfsense
 <!--
 **TomyThePingu/TomyThePingu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
