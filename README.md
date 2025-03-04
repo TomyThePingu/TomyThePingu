@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello there 👋
 
 IT student by day ☼ and a HomeLabber by night ☾
 
