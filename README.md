@@ -17,7 +17,7 @@
 ![](https://img.shields.io/badge/Containerisation-Docker-informational?style=flat&logo=docker&logoColor=white&color=0078D6)
 ![](https://custom-icon-badges.demolab.com/badge/Container_Management-Portainer-informational?style=flat&logo=portainer&logoColor=white&color=0078D6)
 ![](https://custom-icon-badges.demolab.com/badge/Dns-Cloudflare-informational?style=flat&logo=cloudflare&logoColor=white&color=E95420)
-
+![](https://custom-icon-badges.demolab.com/badge/Cloud_Hosting-Amazon_Web_Services-informational?style=flat&logo=amazonwebservices&logoColor=white&color=f2da1f)
 <!--
 **TomyThePingu/TomyThePingu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
