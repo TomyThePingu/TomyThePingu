@@ -2,6 +2,11 @@
 
 IT student by day ☼ and a HomeLabber by night ☾
 
+### 🔧 Technologies & Tools
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=whitecolor=2bbc8a)](#)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+
 - 🔭 I’m currently working on my setup
 - 💬 Ask me about Proxmox or Pfsense
 <!--
