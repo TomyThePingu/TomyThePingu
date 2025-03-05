@@ -11,8 +11,11 @@
 ![](https://custom-icon-badges.demolab.com/badge/OS-Windows-informational?style=flat&logo=windows11&logoColor=white&color=0078D6)
 ![](https://custom-icon-badges.demolab.com/badge/Firewall-Pfsense-informational?style=flat&logo=pfsense&logoColor=white&color=0078D6)
 ![](https://custom-icon-badges.demolab.com/badge/Hypervisor-Proxmox-informational?style=flat&logo=proxmox&logoColor=white&color=E95420)
+![](https://custom-icon-badges.demolab.com/badge/Nas-TrueNasScale-informational?style=flat&logo=truenas&logoColor=white&color=0078D6)
+![](https://custom-icon-badges.demolab.com/badge/Reverse_Proxy-Traefik-informational?style=flat&logo=traefik&logoColor=white&color=0078D6)
 ![](https://img.shields.io/badge/Containerisation-Docker-informational?style=flat&logo=docker&logoColor=white&color=0078D6)
 ![](https://custom-icon-badges.demolab.com/badge/Container_Management-Portainer-informational?style=flat&logo=portainer&logoColor=white&color=0078D6)
+![](https://custom-icon-badges.demolab.com/badge/Dns-Cloudflare-informational?style=flat&logo=cloudflare&logoColor=white&color=E95420)
 <!--
 **TomyThePingu/TomyThePingu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
