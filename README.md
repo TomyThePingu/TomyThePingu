@@ -5,10 +5,9 @@ IT student by day ☼ and a HomeLabber by night ☾
 ### 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=e100ff)
 ![](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=ubuntu&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 
-- 🔭 I’m currently working on my setup
-- 💬 Ask me about Proxmox or Pfsense
 <!--
 **TomyThePingu/TomyThePingu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
