@@ -1,8 +1,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?size=30&duration=2000&pause=10000&color=A0A0A0&center=true&vCenter=true&width=600&font=Fira%20Code&lines=%F0%9F%91%8B+Welcome to my Github Profile+%F0%9F%91%A8%E2%80%8D%F0%9F%8E%93"/>
 </p>
-
-IT student, Homelabber and CTF player 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira%20Code&center=true&width=640&color=A0A0A0&vCenter=true&pause=1000&duration=3000&size=22&lines=IT-Student;Passionate%20about%20Homelab%20and%20IT%Network;And%20also%20a%20CTF%20player"/>
+</p>
 
 ### 🔧 What I use :
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=FCC624)
