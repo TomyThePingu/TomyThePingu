@@ -1,6 +1,6 @@
 ## Hello there 👋
 
-IT student by day ☼ and a HomeLabber by night ☾
+IT student, Homelabber and CTF player 
 
 ### 🔧 What I use :
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=FCC624)
